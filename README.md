@@ -8,6 +8,7 @@ BBN_LLC_TZ/
 ├── detector_Cascade_R-CNN.py
 ├── detector_retinaNet.py
 ├── requirements.txt
+├── выводы.txt
 ├── README.md
 └── video/
     ├── reference_on_video_result.txt(ссылка на диск с результатами)
